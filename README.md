@@ -11,12 +11,13 @@ An interactive Power BI dashboard analysing 31,653 UK National Rail ticket trans
 
 | Name | Role |
 |------|------|
-| Habiba Waleed Abdelrazek Mohammed | Project Leader |
-| Habiba Mohammed Abdelfattah | Data Analyst |
-| Gannah Salah | Business Analyst |
-| Aya Hossam Mostafa | Dashboard Developer |
-| Rodayna | Predictive Analyst |
-| Sara Mohamed | Documentation & Presentation |
+| Habiba Waleed Abdelrazek Mohammed | Project Leader, Forecasting Dashboard |
+| Habiba Mohammed Abdelfattah | Dashboard Visualization |
+| Gannah Salah | Refund& financial analysis Dashboard |
+| Aya Hossam Mostafa | Analysis and insights |
+| Rodayna | Data cleaning and preparation |
+| Sara Mohamed | Cancelled Rides |
+| Each one take part of it depend on the dashboard page | Documentation & Presentation |
 
 ---
 
